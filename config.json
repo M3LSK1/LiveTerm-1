@@ -1,39 +1,39 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Mel Hates Life",
+  "name": "Mel M̷e̴l̴ M̴̮̟̥̺̺̮̥̼̩̀̌̈́͝ë̴̘͓̭͙͍̾̑̑̈́̍̑̒̂̄͂̆̕͝l̴̨̩̘͇̤̺̻̦̯̭̱͈̀̇ M̶̢̢̢̧̨̮̺̟̙̙̟̥̝͍̥̩̫̲̝̤̘̮̭̖̫͎̼͎̙͍̠̱̟͕̝̼̦̜̙͚̜̠̪̼̖̘̌͆͑̏̏̿̑̋̍͗̄̔̕̕̚͜e̵̛̝̤̓̀̑͗̍̿̅̑͐̆̓͑̍̽͐̐́̈́͝͝ͅͅl̵̛̖̦̼̘̰͔̟̩̩͉̙̯̔̄̀͆̃̊͊̄̋́̌̑̈́̌̂̀̐̓͗̎͗̓̀́̚",
+  "ascii": "Mel Hates Life",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "I am still coding the website albeit with a lot of",
+    "linkedin": "'assistance' (sorry unnamed) wait for the full thing!"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "email": "Welcome to my temporary website",
+  "ps1_hostname": "melhates.life",
+  "ps1_username": "client",
+  "repo": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "resume_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "Support the creator of the amazing website template on github",
+    "patreon": "via https://github.com/Cveinnt/LiveTerm all credits go to him."
   },
   "colors": {
     "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
-      "yellow": "#D79921",
-      "green": "#98971A",
-      "gray": "#7C6F64",
-      "blue": "#458588",
-      "red": "#CA2124"
+      "background": "#D0C8C6",
+      "foreground": "#3B3228",
+      "yellow": "#F4BC87",
+      "green": "#BEB55B",
+      "gray": "#A89BB9",
+      "blue": "#8AB3B5",
+      "red": "#CB6077"
     },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
+      "background": "#3B3228",
+      "foreground": "#D0C8C6",
+      "yellow": "#F4BC87",
+      "green": "#BEB55B",
+      "gray": "#A89BB9",
+      "blue": "#8AB3B5",
+      "red": "#CB6077"
     }
   }
 }
